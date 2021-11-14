@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omitto-wechuli
 - 👀 I’m interested in coding and developer
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on appdeveloper
+- 🌱 I’m currently learning coding and app develolper.
+- 💞️ I’m looking to collaborate on app developer,codding and web development.
 - 📫 How to reach me wechulikelvin12@gmail.com
 
 <!---
